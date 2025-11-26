@@ -1,4 +1,4 @@
-# Hello I'm Dinadee Sethnara
+# Hello I'm Dinadee Sethnara Hewanayakage
 
 I’m a first-year Computer Science student at Edith Cowan University with a passion for programming, storytelling, and problem-solving. I have completed several university projects and enjoy learning new skills. While I currently know the basics, I am a fast learner, eager to gain experience, and confident in my ability to pick up anything needed to contribute to real projects.
 
